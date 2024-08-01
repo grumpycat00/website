@@ -29,14 +29,6 @@ export function UiLayout({
 }) {
   const { pathname } = useLocation();
 
-//   Deco frise %
-// Navbar (logo - Grunpy ? - Grumpynomic & presale -  - Connect)
-// who I am? (description/story grumpy) (info important, sociaux et address contract)
-// Grumpnomics + presale OK
-// Grumpy Game + Roadmap OK
-// Team OK
-// Footer OK
-
   return (
     <div className=" flex flex-col bg-prussian ">
       < Pricebar />
@@ -83,9 +75,9 @@ export function UiLayout({
         </div>
       
       <footer className="footer footer-center p-4 bg-base-300 text-base-content">
-        <div className='flex'>
+        <div className='flex gapNone'>
 
-      <a href="https://x.com/grumpycoincat" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/grumpycoincat" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../assets/x.png")} alt="Twitter Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
                     <a href="https://www.pinksale.finance/" target="_blank" rel="noopener noreferrer">

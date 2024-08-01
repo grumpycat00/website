@@ -170,3 +170,8 @@ body,
     list-style: none;
   }
 }
+
+
+.gapNone{
+  margin-bottom: -2rem;
+}

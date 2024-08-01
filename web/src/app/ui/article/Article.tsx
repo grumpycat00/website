@@ -38,7 +38,7 @@ export default function Article() {
                 From meme stardom to a multi-million dollar empire, Grumpy Cat’s journey is a testament to the power of a good frown.<br />
                 Perfect for those who believe the secret to success lies in mastering the art of looking unimpressed.<br /><br />
                 Dive in to learn how this grumpy kitty clawed her way to the top, one disdainful glare at a time.</p>
-                <p>Participate ⬇️</p>
+                <p>Click to Read ⬇️</p>
                 <a href=" https://edition.cnn.com/2019/05/17/business/grumpy-cat-pet-celebrities-memes-influencer/index.html" target="_blank" rel="noopener noreferrer">
                     <img src={require("../../../assets/cnn.png")} alt="Illustration 2" className="w-full h-auto" />
                 </a>
