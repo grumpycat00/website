@@ -80,10 +80,10 @@ export function UiLayout({
           <a href="https://x.com/grumpycoincat" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../assets/x.png")} alt="Twitter Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
-                    <a href="https://www.pinksale.finance/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.pinksale.finance/solana/launchpad/BRkQUb1rMAgLS18cp9iw3jZfePADV97jW7oxMVD4VFRt" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../assets/pinksale.png")} alt="Pinksale Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
-                    <a href="https://tr.ee/6zcKj0wXOn" target="_blank" rel="noopener noreferrer">
+                    <a href="https://t.me/+V6Qc_DqErSRkYTg0" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../assets/telegram.png")} alt="Telegram Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
         </div>
