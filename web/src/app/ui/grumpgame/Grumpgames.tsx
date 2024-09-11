@@ -14,7 +14,7 @@ export default function Grumpgames() {
                 <li className="border-t-4 pt-5">Q2 2025: Additional Exchange Listings, Further Development of DApp, Community-driven Projects Funding.</li>
             </ul>
         </div>
-        <div className="md:w-1/2 w-full mb-6 md:mb-0 mx-3 bgGame bg-no-repeat bg-center p-4 relative">
+        {/* <div className="md:w-1/2 w-full mb-6 md:mb-0 mx-3 bgGame bg-no-repeat bg-center p-4 relative">
             <div className="absolute bottom-0 left-0 right-0 p-4">
                 <h2 className="text-3xl text-white   text-center bg-bckgd  bg-opacity-90 underline decoration-solid">Grumpy Game</h2>
                 <ul className="list-disc flex flex-col gap-y-5 p-8 bg-white bg-opacity-60 rounded">
@@ -24,7 +24,7 @@ export default function Grumpgames() {
                     <li className="border-t-4 pt-5">“Unique characters, await you soon in our virtual memecoins arena!”</li>
                 </ul>
             </div>
-        </div>
+        </div> */}
     </div>
     
     )

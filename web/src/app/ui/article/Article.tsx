@@ -12,11 +12,14 @@ export default function Article() {
                     <a href="https://x.com/grumpycoincat" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../../assets/x.png")} alt="Twitter Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
-                    <a href="https://www.pinksale.finance/solana/launchpad/BRkQUb1rMAgLS18cp9iw3jZfePADV97jW7oxMVD4VFRt" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.pinksale.finance/" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../../assets/pinksale.png")} alt="Pinksale Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
-                    <a href="https://t.me/+V6Qc_DqErSRkYTg0" target="_blank" rel="noopener noreferrer">
+                    <a href="https://tr.ee/6zcKj0wXOn" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../../assets/telegram.png")} alt="Telegram Logo" className="w-8 h-8 md:w-10 md:h-10" />
+                    </a>
+                    <a href="https://www.dexview.com/solana/7WfUQNHUCZgkZXf7vFo2Gm8VPcLF4buV87APp5DAueFD" target="_blank" rel="noopener noreferrer">
+                        <img src={require("../../../assets/dexview.png")} alt="Dexview Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
                 </div>
                 <p className="text-white">
@@ -38,11 +41,9 @@ export default function Article() {
                 From meme stardom to a multi-million dollar empire, Grumpy Cat’s journey is a testament to the power of a good frown.<br />
                 Perfect for those who believe the secret to success lies in mastering the art of looking unimpressed.<br /><br />
                 Dive in to learn how this grumpy kitty clawed her way to the top, one disdainful glare at a time.</p>
-                <p>Click to Read ⬇️</p>
                 <a href=" https://edition.cnn.com/2019/05/17/business/grumpy-cat-pet-celebrities-memes-influencer/index.html" target="_blank" rel="noopener noreferrer">
                     <img src={require("../../../assets/cnn.png")} alt="Illustration 2" className="w-full h-auto" />
                 </a>
-                
             </div>
 
             <div className="bg-grey/25 flex-1 flex flex-col items-center p-4 m-4 md:m-4 border-2 border-gread rounded space-y-4">
