@@ -12,15 +12,6 @@ export default function Article() {
                     <a href="https://x.com/grumpycoincat" target="_blank" rel="noopener noreferrer">
                         <img src={require("../../../assets/x.png")} alt="Twitter Logo" className="w-8 h-8 md:w-10 md:h-10" />
                     </a>
-                    <a href="https://www.pinksale.finance/" target="_blank" rel="noopener noreferrer">
-                        <img src={require("../../../assets/pinksale.png")} alt="Pinksale Logo" className="w-8 h-8 md:w-10 md:h-10" />
-                    </a>
-                    <a href="https://tr.ee/6zcKj0wXOn" target="_blank" rel="noopener noreferrer">
-                        <img src={require("../../../assets/telegram.png")} alt="Telegram Logo" className="w-8 h-8 md:w-10 md:h-10" />
-                    </a>
-                    <a href="https://www.dexview.com/solana/7WfUQNHUCZgkZXf7vFo2Gm8VPcLF4buV87APp5DAueFD" target="_blank" rel="noopener noreferrer">
-                        <img src={require("../../../assets/dexview.png")} alt="Dexview Logo" className="w-8 h-8 md:w-10 md:h-10" />
-                    </a>
                 </div>
                 <p className="text-white">
                 Join the Grumpy Cat fan club on social media – if you feel like it.<br />
@@ -49,23 +40,19 @@ export default function Article() {
             <div className="bg-grey/25 flex-1 flex flex-col items-center p-4 m-4 md:m-4 border-2 border-gread rounded space-y-4">
                 <h2 className="text-3xl  mb-8 text-white text-center  underline decoration-solid">I'm not a fucking crook</h2>
                 <p className=" text-white font-bold">
-                😻  0% Tax<br />
-                🙀  Metadata Authority Revoked<br />
-                😽  Mint Authority Revoked<br />
-                😾  Freeze Authority Revoked<br />
+                😻 Liquidity Locked FOREVER<br />
+                🙀 Metadata, Mint, Freeze Authority Revoked<br />
+                😽 Top Holders rewards<br />
+                😾 Doxxed Team<br />
                 </p>
 
                 <p className=" text-white">
-                    We've permanently revoked the minting authority to prevent any unexpected increases in token supply,<br /> 
-                     protecting your investment from inflation and dilution.<br /> 
-                    We've also revoked the freeze authority, ensuring that your assets are always accessible and <br /> 
-                    never subject to sudden restrictions.<br /> 
-                </p>
+                We’ve permanently revoked all minting and freeze authorities to ensure that the token supply remains fixed, safeguarding your investment from inflation or dilution. With no control over these authorities, your assets are secure and accessible at all times, free from any unexpected restrictions.</p>
 
                 <p className=" text-white">
                     Security and Trust<br />
-                    By implementing these measures, we aim to provide a secure and trustworthy environment for your investments,<br /> 
-                    ensuring peace of mind and confidence in our project.  
+                    By locking 100% of liquidity FOREVER and revoking authorities, we aim to create a secure and transparent environment for our community. <br /> 
+                    Our commitment to a fair launch on Moonshot and Meteora, along with rewards for the top 50 holders and a DOXXED team, ensures long-term trust and confidence in the project.  
                 </p>
                 <img src={require("../../../assets/greenGrump.webp")} alt="grumpy with green chart on background" className="w-full h-auto" />
             </div>

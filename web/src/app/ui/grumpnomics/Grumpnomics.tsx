@@ -5,22 +5,22 @@ export default function Grumpnomics() {
              <div className=" half-minus-margin w-full mb-6 min-h-[30rem] text-center mx-4 bg-blueGrump   rounded-lg p-6  drop-shadow-lg noPaddingMobile heighMobile">
                 <div className=" w-fit flex-center mx-auto border-2 bg-white  border-bckgd rounded-lg marginYMobile">
                 <h2 className="  text-3xl  p-2 text-pinksaleSoft  font-bold underline decoration-solid TitreMobile paddingXMobile " >
-                    Grumpy News
+                Launching of the grumpy V2 on mooshot
                     </h2>
                 </div>
-                    <p>Liquidity Locked</p>
+                    <p className="text-3xl p-2" >☝</p>
                     <p className="border-b-4 pb-4 mb-5  border-bckgd"></p>
                 
                 <ul className="list-disc flex flex-col gap-y-5 px-14 text-left pl-20 text-bckgd min-h-[20rem] noPaddingMobile textAlignMobile gapMobile heighMobile marginYMobile">
-                    <li>100% of liquidity is locked to ensure price stability and protect investors.</li>
-                    <li>5 Rounds of Token Burns
-                    We have scheduled 5 rounds of token burns, each reducing the total supply by 10%, ensuring long-term deflationary pressure.</li>
-                    <li>Community Airdrop Rewards
-                    5% of the total supply will be distributed to early adopters and active community members through periodic airdrops.</li>
-                    <li>Fair Launch on pinksale and Raydium
-                    No presale or early investor advantages. The token is launched directly on Raydium, giving everyone an equal opportunity to participate.</li>
-                    <li>Referral Program
-                    Invite your friends and earn bonus tokens! For every person you refer who purchases meme coins, you’ll receive a percentage of their purchase as a reward.</li>
+                    <li>100% Liquidity Locked Forever. All liquidity is locked FOREVER to ensure price stability and protect investors.</li>
+                    <li>Top Holders Reward Lock & Earn
+                    Upon launch on Meteora, the top 50 holders will receive lifetime rewards! A portion of the LP rewards is automatically redistributed. (we have no control over that)</li>
+                    <li>No Team Tokens
+                    The team holds no tokens other than those they purchase themselves!</li>
+                    <li>Fair Launch via Moonshot and Meteora
+                    No presale or early investor advantages. The token will be launched directly via Moonshot and listed on Meteora, providing a fair opportunity for everyone.</li>
+                    <li>DOXXED Team
+                    A group will be created with the team and the top 50 holders to grow the project together.</li>
                 </ul>
             </div>  
 
